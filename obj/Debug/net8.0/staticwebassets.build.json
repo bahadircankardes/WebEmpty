@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "GAtFOjttMwgWyjgQePFZXJTqHuJ0fIVGovcRenX27DY=",
+  "Source": "WebEmpty",
+  "BasePath": "_content/WebEmpty",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebEmpty/wwwroot",
+      "Source": "WebEmpty",
+      "ContentRoot": "/Users/bcan/source/repos/Wissen2024/WebGiris/WebEmpty/wwwroot/",
+      "BasePath": "_content/WebEmpty",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/bcan/source/repos/Wissen2024/WebGiris/WebEmpty/wwwroot/package-lock.json",
+      "SourceId": "WebEmpty",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bcan/source/repos/Wissen2024/WebGiris/WebEmpty/wwwroot/",
+      "BasePath": "_content/WebEmpty",
+      "RelativePath": "package-lock.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/package-lock.json"
+    },
+    {
+      "Identity": "/Users/bcan/source/repos/Wissen2024/WebGiris/WebEmpty/wwwroot/package.json",
+      "SourceId": "WebEmpty",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bcan/source/repos/Wissen2024/WebGiris/WebEmpty/wwwroot/",
+      "BasePath": "_content/WebEmpty",
+      "RelativePath": "package.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/package.json"
+    }
+  ]
+}

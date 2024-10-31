@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/bcan/source/repos/Wissen2024/WebGiris/WebEmpty/wwwroot/package-lock.json",
+      "PackagePath": "staticwebassets/package-lock.json"
+    },
+    {
+      "Id": "/Users/bcan/source/repos/Wissen2024/WebGiris/WebEmpty/wwwroot/package.json",
+      "PackagePath": "staticwebassets/package.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WebEmpty.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WebEmpty.props",
+      "PackagePath": "build\\WebEmpty.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebEmpty.props",
+      "PackagePath": "buildMultiTargeting\\WebEmpty.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebEmpty.props",
+      "PackagePath": "buildTransitive\\WebEmpty.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
